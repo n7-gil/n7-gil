@@ -9,7 +9,7 @@ I started learning how to code in 2022. Currently enrolled in a Full Stack Web E
 * 🌍  I'm based in Riverside, CA
 * 🖥️  See my portfolio at [MyPortfolio](https://n7-gil.github.io/Gilberto-Escobedo-Portfolio/)
 * ✉️  You can contact me at [GilbertoAEscobedo@gmail.com](mailto:GilbertoAEscobedo@gmail.com)
-* 🧠  I'm learning Express, SQL
+* 🧠  I'm learning MVC, CS, NoSQL, React
 * ⚡  Let's network with some video games! PSN : MIGHTYFINE-
 
 <a href="https://www.twitch.tv/Mightyfine__" target="_blank" rel="noreferrer"><img

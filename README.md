@@ -7,7 +7,7 @@ Web Developer and Designer
 I started learning how to code in 2022. Currently enrolled in a Full Stack Web Engineering bootcamp hosted by UCR. I have a passion for creating unique designs and making helpful applications. Background in business management and video game design.
 
 * 🌍  I'm based in Riverside, CA
-* 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/n7-gil/Gilberto-Escobedo-Portfolio)
+* 🖥️  See my portfolio at [MyPortfolio](https://n7-gil.github.io/Gilberto-Escobedo-Portfolio/)
 * ✉️  You can contact me at [GilbertoAEscobedo@gmail.com](mailto:GilbertoAEscobedo@gmail.com)
 * 🧠  I'm learning Express, SQL
 * ⚡  Let's network with some video games! PSN : MIGHTYFINE-

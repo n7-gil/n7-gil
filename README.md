@@ -10,7 +10,7 @@ I started learning how to code in 2022. Currently enrolled in a Full Stack Web E
 * 🖥️  See my portfolio at [MyPortfolio](https://n7-gil.github.io/Gilberto-Escobedo-Portfolio/)
 * ✉️  You can contact me at [GilbertoAEscobedo@gmail.com](mailto:GilbertoAEscobedo@gmail.com)
 * 🧠  I'm learning MVC, CS, NoSQL, React
-* ⚡  Let's network with some video games! PSN : MIGHTYFINE-
+
 
 <a href="https://www.twitch.tv/Mightyfine__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Mightyfine__?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
